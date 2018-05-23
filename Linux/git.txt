@@ -1,0 +1,7 @@
+git config --global user.name "kejian"
+git config --global user.email "hellokejian@163.com"
+
+sudo gedit ~/.gitconfig
+
+第1步：创建SSH Key
+ssh-keygen -t rsa -C "hellokejian@163.com"
